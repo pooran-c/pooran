@@ -1,6 +1,6 @@
 body {
-  font-family: 'Raleway', sans-serif;
-  background: rgb(181 40 40 / 60);    
+  font-family: "Lucida Console", Monaco, monospace;
+  background: #2F4F4F;    
   margin: 0;
 }
 
@@ -10,7 +10,7 @@ body {
 
 /*NAVBAR*/
 .navbar {
-  background-color: #434244;
+  background-color: #00008B;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
@@ -35,7 +35,7 @@ body {
 /*JUMBOTRON*/
 .jumbotron {
   height: 50%; /*height to 100% of view height*/
-  background: #434244; /*background color to blue*/
+  background: #00008B; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
 
   display: flex;
@@ -137,7 +137,7 @@ body {
 h2 {
   font-weight: 200;
   font-size: 3rem;
-  color: #434244;
+  color: #00008B;
   text-transform: uppercase;
   text-align: center;
 }
@@ -226,7 +226,7 @@ h4 {
   margin: 7px;
   padding: 5px 10px;
   color: white;
-  background: #434244;
+  background: #00008B;
   list-style: none;
   cursor: default;
   font-size: 1.2em;
