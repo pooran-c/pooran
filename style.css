@@ -48,7 +48,7 @@ body {
   font-size: 1em;
   color: white;
   text-align: center;
-  padding-top: 150px;
+  
 }
 
 .jumbotron-text h1 {
@@ -311,19 +311,20 @@ img {
 }
 
 .jumbotron-img {
-  color: white;
-  width: 100px;
-  height: 100px;
-    background-color: #fff; 
-      border-radius: 50%;
-        border-style: solid;
-  border-width: 1px;
-  border-color: rgba(0,0,0,.125);
-   padding: 1rem;
-   border : none;
+color: white;
+    width: 120px;
+    height: 120px;
+    background-color: #fff;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0,0,0,.125);
+    padding: 4px;
+    border: none;
     max-width: 100%;
-    
     display: block;
-margin-left: auto;
-margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 57px;
 }
+
